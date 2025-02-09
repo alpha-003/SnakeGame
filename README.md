@@ -13,8 +13,8 @@ This project is a simple **Snake Game** built using **React** and **TypeScript**
 
 ### Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/alpha-003/SnakeGame
+cd SnakeGame
 ```
 
 ### Install dependencies:
